@@ -49,7 +49,7 @@ namespace new_test_project
         [CodedStep(@"New Coded Step")]
         public void WebTest_CodedStep()
         {
-            
+            new
         }
     }
 }
